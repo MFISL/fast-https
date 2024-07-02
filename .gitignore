@@ -1,0 +1,16 @@
+modules/core/server/build/*
+modules/core/server/build/CMakeFiles/*
+dist/*
+dist_windows/*
+monitor/monitor.exe
+logs/*.log
+out/*
+*.out
+fast-https.exe
+fast-https
+fast-https.pid
+config/cert/*.pem
+conifg/conf.d/*.json
+httpdoc/root/root.crt
+httpdoc/root/root.key
+httpdoc/theme/*
